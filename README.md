@@ -12,11 +12,11 @@ Mutiny, Terraform, Liquibase. I know messaging using Kafka and AWSSQS. Database 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://github.com/crinnger/crinnger/assets/68408284/c1d232d1-c506-4d58-ad62-aa215a3c8022)
+![image](https://github.com/crinnger/crinnger/assets/68408284/3876580c-5704-481d-b2a3-eadfb73835aa)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![SAML](https://github.com/crinnger/crinnger/assets/68408284/a0b4b525-b04d-4c94-88a9-64f00d7abf50)
+
 
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -24,7 +24,11 @@ Mutiny, Terraform, Liquibase. I know messaging using Kafka and AWSSQS. Database 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![AWS SQS](https://github.com/crinnger/crinnger/assets/68408284/042c8c11-46e0-4122-a1a9-d4ab39c3a0e1)
+![image](https://github.com/crinnger/crinnger/assets/68408284/fc0450aa-c8f6-4724-8016-be31cd5d6711)
+
+
+
+
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -32,7 +36,6 @@ Mutiny, Terraform, Liquibase. I know messaging using Kafka and AWSSQS. Database 
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Liquibase](https://github.com/crinnger/crinnger/assets/68408284/3fc10761-faa9-49ae-be1a-d8c1d0ec0de9)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
